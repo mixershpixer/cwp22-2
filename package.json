@@ -1,0 +1,14 @@
+{
+  "name": "jopa",
+  "version": "1.2.3",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "mixershpixer",
+  "license": "ISC",
+  "dependencies": {
+    "mixercwp22": "^2.2.8"
+  }
+}
